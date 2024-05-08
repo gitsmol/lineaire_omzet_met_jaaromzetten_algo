@@ -1,1 +1,2 @@
 pandas==2.0
+py-moneyed==3.0
